@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "assert.h": "c",
+        "stdlib.h": "c",
+        "framerenderer.h": "c",
+        "3dobject2.h": "c",
+        "unistd.h": "c",
+        "random": "c",
+        "iostream": "cpp"
+    }
+}

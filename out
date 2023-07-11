@@ -1,0 +1,5 @@
+Testing mesh in Open3D...
+TriangleMesh with 1440 points and 2880 triangles.
+Triangles:
+std::vector<Eigen::Vector3i> with 2880 elements.
+Use numpy.asarray() to access data.
